@@ -7,6 +7,8 @@ Mailroom is a command-line tool for one newsletter: **Datacraft Bootcamp Monthly
 - Use uv for everything (running, adding packages, Python versions). Never call `pip` or `python` directly; use `uv run`, `uv add`, and so on.
 - Never use a real person's email address. Use addresses at `@example.com`, and `@resend.dev` for practice sends.
 - Commit and push after every step.
+- The newsletter's tone is friendly and respectful, written for bootcamp students.
+- Every commit message is in English and says clearly what changed.
 
 ## How I learn
 
